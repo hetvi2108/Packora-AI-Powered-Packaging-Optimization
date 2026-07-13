@@ -1,0 +1,253 @@
+{
+  "optimizations": [
+    {
+      "id": "1780591297396",
+      "name": "Wireless Earbuds",
+      "savedAt": "2026-06-04T16:41:37.396Z",
+      "input": {
+        "L": 120,
+        "W": 80,
+        "H": 60,
+        "wt": 250,
+        "frag": 5,
+        "qty": 100,
+        "stack": 5,
+        "sus": "max",
+        "cat": "electronics",
+        "ista": "2A",
+        "dist": "Regional (100–1000km)"
+      },
+      "dims": {
+        "product": {
+          "L": 120,
+          "W": 80,
+          "H": 60
+        },
+        "optimized": {
+          "L": 140,
+          "W": 100,
+          "H": 80
+        },
+        "pad": 10,
+        "surfaceArea": 0.0664,
+        "olistRef": {
+          "cat": "electronics",
+          "pL": 180,
+          "pW": 160,
+          "pH": 20
+        }
+      },
+      "material": {
+        "name": "Moulded Pulp (recycled)",
+        "friendlyName": "Moulded Pulp (Eco)",
+        "co2": 1.1,
+        "energy": 9.8,
+        "water": 12,
+        "recycle": 98,
+        "lcaScore": 96
+      },
+      "supplier": {
+        "name": "Supplier 3 & Supplier 1, Mumbai",
+        "rsPm2": 6.06,
+        "moq": 300,
+        "leadDays": 14
+      },
+      "strength": {
+        "ect": 32,
+        "bct": 7707,
+        "stackLoad": 12.3,
+        "safetyFactor": 626.59,
+        "safetyScore": 82,
+        "safetyLabel": "Slightly over-spec — consider lighter material",
+        "thickness": 3.5
+      },
+      "cost": {
+        "unitCost": 0.43,
+        "batchSave": 8,
+        "annualSave": 96,
+        "freightAvg": 322
+      },
+      "eco": {
+        "ecoScore": 96,
+        "saving": 37,
+        "co2Saved": 70,
+        "batchCO2": 5.9,
+        "treeEquivalent": 281,
+        "energySaving": 66
+      },
+      "ista": {
+        "level": "2A",
+        "dropCm": 61,
+        "vibHz": 7,
+        "minECT": 26,
+        "weightClass": "0–2kg"
+      }
+    },
+    {
+      "id": "1780591324505",
+      "name": "apple",
+      "savedAt": "2026-06-04T16:42:04.505Z",
+      "input": {
+        "L": 120,
+        "W": 80,
+        "H": 60,
+        "wt": 250,
+        "frag": 5,
+        "qty": 10,
+        "stack": 5,
+        "sus": "max",
+        "cat": "food",
+        "ista": "2A",
+        "dist": "Regional (100–1000km)"
+      },
+      "dims": {
+        "product": {
+          "L": 120,
+          "W": 80,
+          "H": 60
+        },
+        "optimized": {
+          "L": 140,
+          "W": 100,
+          "H": 80
+        },
+        "pad": 10,
+        "surfaceArea": 0.0664,
+        "olistRef": {
+          "cat": "food",
+          "pL": 160,
+          "pW": 110,
+          "pH": 30
+        }
+      },
+      "material": {
+        "name": "Moulded Pulp (recycled)",
+        "friendlyName": "Moulded Pulp (Eco)",
+        "co2": 1.1,
+        "energy": 9.8,
+        "water": 12,
+        "recycle": 98,
+        "lcaScore": 96
+      },
+      "supplier": {
+        "name": "Supplier 3 & Supplier 1, Mumbai",
+        "rsPm2": 6.06,
+        "moq": 300,
+        "leadDays": 14
+      },
+      "strength": {
+        "ect": 32,
+        "bct": 7707,
+        "stackLoad": 12.3,
+        "safetyFactor": 626.59,
+        "safetyScore": 82,
+        "safetyLabel": "Slightly over-spec — consider lighter material",
+        "thickness": 3.5
+      },
+      "cost": {
+        "unitCost": 0.43,
+        "batchSave": 1,
+        "annualSave": 12,
+        "freightAvg": 219
+      },
+      "eco": {
+        "ecoScore": 96,
+        "saving": 30,
+        "co2Saved": 65,
+        "batchCO2": 0.55,
+        "treeEquivalent": 26,
+        "energySaving": 66
+      },
+      "ista": {
+        "level": "2A",
+        "dropCm": 61,
+        "vibHz": 7,
+        "minECT": 26,
+        "weightClass": "0–2kg"
+      }
+    },
+    {
+      "id": "1780591652348",
+      "name": "TV",
+      "savedAt": "2026-06-04T16:47:32.348Z",
+      "input": {
+        "L": 1450,
+        "W": 284,
+        "H": 900,
+        "wt": 9000,
+        "frag": 8,
+        "qty": 1,
+        "stack": 1,
+        "sus": "balanced",
+        "cat": "electronics",
+        "ista": "2A",
+        "dist": "Regional (100–1000km)"
+      },
+      "dims": {
+        "product": {
+          "L": 1450,
+          "W": 284,
+          "H": 900
+        },
+        "optimized": {
+          "L": 1540,
+          "W": 374,
+          "H": 990
+        },
+        "pad": 45,
+        "surfaceArea": 4.9416,
+        "olistRef": {
+          "cat": "electronics",
+          "pL": 650,
+          "pW": 650,
+          "pH": 650
+        }
+      },
+      "material": {
+        "name": "Honeycomb Paperboard",
+        "friendlyName": "Honeycomb Board (Lightweight Strong)",
+        "co2": 1.358,
+        "energy": 13.1,
+        "water": 7.8,
+        "recycle": 94,
+        "lcaScore": 91
+      },
+      "supplier": {
+        "name": "Supplier 3 & Supplier 1, Mumbai",
+        "rsPm2": 6.06,
+        "moq": 300,
+        "leadDays": 14
+      },
+      "strength": {
+        "ect": 65,
+        "bct": 91522,
+        "stackLoad": 88.3,
+        "safetyFactor": 1036.49,
+        "safetyScore": 66,
+        "safetyLabel": "Over-spec — lighter material would save cost",
+        "thickness": 15
+      },
+      "cost": {
+        "unitCost": 32.34,
+        "batchSave": 6,
+        "annualSave": 72,
+        "freightAvg": 322
+      },
+      "eco": {
+        "ecoScore": 84,
+        "saving": 31,
+        "co2Saved": 63,
+        "batchCO2": 0.07,
+        "treeEquivalent": 3,
+        "energySaving": 54
+      },
+      "ista": {
+        "level": "2A",
+        "dropCm": 76,
+        "vibHz": 7,
+        "minECT": 34,
+        "weightClass": "5–10kg"
+      }
+    }
+  ]
+}
